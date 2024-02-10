@@ -41,7 +41,7 @@ def upload():
         table_name = request.form['tablename']
         uploaded_file = request.files['file']
 
-        if not uploaded_file.filename.endswith(('.xls', '.xlsx')):
+        if not uploaded_file.filename.endswith(('.xlsx')):
             return jsonify({'status': 'error', 'message': 'Invalid file format. Please upload an Excel file.'}), 400
 
         df = pd.read_excel(uploaded_file)
