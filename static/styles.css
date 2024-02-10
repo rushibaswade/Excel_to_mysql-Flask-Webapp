@@ -184,6 +184,10 @@ body.celebrate {
     border: 2px solid #ff3333;
 }
 
+.modal-dialog {
+    margin-top: 10%;
+}
+
 .text-muted {
     color: #6c757d;
 }
