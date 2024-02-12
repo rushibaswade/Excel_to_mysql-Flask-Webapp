@@ -13,10 +13,18 @@ In this project i have designed a webapp which will take an Excel file, Database
 
 
 ## Screenshots
-![Updated_data_into_MySQL](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/f456849b-bdd8-4e94-9e24-56d356cbaa1a)
-![When_User_Select_other_than_Excel_file](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/507064a4-0755-404b-aaa8-755e10452a74)
-![Once_Excel_data_get_sucessfully_Updated_into_MySQL](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/c9f73720-9d67-441a-9ba5-d93f280ec689)
+
+Home Page of Website
 ![Home_Page](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/46371f88-ecec-46f8-ba6b-35103769e186)
+
+Once Excel data get sucessfully updated into MySQL
+![Once_Excel_data_get_sucessfully_Updated_into_MySQL](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/c9f73720-9d67-441a-9ba5-d93f280ec689)
+
+When user select other than Excel file
+![When_User_Select_other_than_Excel_file](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/507064a4-0755-404b-aaa8-755e10452a74)
+
+updated data into MySQL
+![Updated_data_into_MySQL](https://github.com/rushibaswade/Excel_to_mysql-Flask-Webapp/assets/98394319/f456849b-bdd8-4e94-9e24-56d356cbaa1a)
 
 
 ## Tech Stack
