@@ -8,7 +8,7 @@ app = Flask(__name__)
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Rushikesh@123',
+    'password': 'YOUR_DATABASE_PASSWORD',
 }
 
 logging.basicConfig(level=logging.DEBUG)
